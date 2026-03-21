@@ -1,0 +1,35 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data
+data/trajectories/*
+data/evaluations/*
+data/normalized/*
+data/positive_knowledge/*
+data/failure_analysis/*
+data/experiences/*
+!data/**/.gitkeep
+
+# Logs
+logs/*.log
+logs/*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LangSmith
+.langsmith/
