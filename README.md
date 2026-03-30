@@ -3,7 +3,7 @@
 GSEM is a graph-based experience memory framework for clinical reasoning agents. It extracts reusable experiences from reasoning trajectories, organizes them into a dual-layer memory graph, retrieves applicable experiences for new cases, and continuously calibrates memory quality and inter-experience relations through online feedback.
 
 <p align="center">
-  <img src="figure/gsem_overview.pdf" alt="Overview of GSEM" width="100%">
+  <img src="figure/gsem_overview.png" alt="Overview of GSEM" width="100%">
 </p>
 
 ## Overview
